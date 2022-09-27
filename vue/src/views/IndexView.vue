@@ -37,12 +37,9 @@ export default {
 <style scoped>
 
   .el-header{
-    background-color: #66b1ff;
+    background-color: darkgray;
   }
 
-  .el-aside {
-    background-color: #001529;
-  }
   .el-menu {
     border-right: none;
   }
